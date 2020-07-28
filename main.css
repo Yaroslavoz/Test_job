@@ -69,10 +69,6 @@ body {
   line-height: 1;
 }
 
-.main {
-  max-width: 1200px;
-}
-
 .main .up-bar {
   display: flex;
   justify-content: space-between;
