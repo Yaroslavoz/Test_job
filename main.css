@@ -99,6 +99,7 @@ body {
   background-color: #F9FAFC;
   height: auto;
   padding: 3em;
+  max-width: 960px;
 }
 
 .contact-list {
