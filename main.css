@@ -23,7 +23,7 @@ body {
   display: flex;
   background-color: #01134E;
   align-self: stretch;
-  height: 85vh;
+  height: 100vh;
   margin-bottom: 0;
 }
 
@@ -70,7 +70,7 @@ body {
 }
 
 .main {
-  max-width: 1200px;
+  width: 100%;
 }
 
 .main .up-bar {
@@ -98,7 +98,6 @@ body {
   display: flex;
   background-color: #F9FAFC;
   height: auto;
-  max-width: 960px;
   padding: 3em;
 }
 
